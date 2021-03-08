@@ -1,4 +1,4 @@
-#/bin/bash
+#! /bin/bash
 
 # link the vimrc here, so changes go to one spot
 ln -s `pwd`/vim/vimrc ~/.vimrc
